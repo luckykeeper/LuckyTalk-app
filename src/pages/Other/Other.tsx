@@ -96,7 +96,7 @@ function Other() {
                     </ListItem>
                     <ListItem icon onPress={() => Linking.openURL('https://talk.luckykeeper.site:24681/')}>
                         <Body>
-                            <Text style={styles.listItemTitle}>fiora 网页版</Text>
+                            <Text style={styles.listItemTitle}>LuckyTalk 网页版</Text>
                         </Body>
                         <Right>
                             <Icon active name="arrow-forward" style={styles.listItemArrow} />

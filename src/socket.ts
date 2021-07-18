@@ -38,7 +38,7 @@ const options = {
     transports: ['websocket'],
 };
 
-const host = 'https://talk.luckykeeper.site:24681/';
+const host = 'https://talk.luckykeeper.site:24681';
 const socket = IO(host, options);
 
 function fetch<T = any>(
