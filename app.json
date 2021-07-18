@@ -5,8 +5,8 @@
     "icon": "./icon.png",
     "version": "0.9.0",
     "description": "App for LuckyTalk. An online chatroom",
-    "slug": "fiora",
-    "scheme": "fiora",
+    "slug": "luckytalk",
+    "scheme": "luckytalk",
     "ios": {
       "bundleIdentifier": "com.luckykeeper.luckytalk",
       "buildNumber": "0.9.0",
