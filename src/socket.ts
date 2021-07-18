@@ -38,7 +38,7 @@ const options = {
     transports: ['websocket'],
 };
 
-const host = 'https://apitalk.luckykeeper.site';
+const host = 'http://ipv4.luckykeeper.site:9200/';
 const socket = IO(host, options);
 
 function fetch<T = any>(
