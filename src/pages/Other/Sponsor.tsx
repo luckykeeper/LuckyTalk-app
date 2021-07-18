@@ -12,11 +12,11 @@ type Props = {
 function Sponsor({ visible, onClose, onOK }: Props) {
     return (
         <Dialog.Container visible={visible}>
-            <Dialog.Title>赞助</Dialog.Title>
+            <Dialog.Title>来自碎碎酱大佬的请求</Dialog.Title>
             <Dialog.Description>
                 <View>
                     <Text style={styles.text}>
-                        如果你觉得这个聊天室还不错的话, 希望能赞助一下~~
+                        （本app根据碎碎酱大佬的源码修改）如果你觉得这个聊天室还不错的话, 希望能赞助（碎碎酱）一下~~
                     </Text>
                     <Text style={styles.tip}>请在转账备注中填写您的 fiora 账号</Text>
                 </View>
