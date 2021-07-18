@@ -70,14 +70,14 @@ function Other() {
                         size={100}
                     />
                     <Text style={styles.name}>
-                        fiora v
+                        LuckyTalk v
                         {appInfo.expo.version}
                     </Text>
                 </View>
                 <List style={styles.list}>
                     <ListItem
                         icon
-                        onPress={() => Linking.openURL('https://github.com/yinxin630/fiora-app')}
+                        onPress={() => Linking.openURL('https://github.com/luckykeeper/LuckyTalk-app')}
                     >
                         <Body>
                             <Text style={styles.listItemTitle}>源码</Text>
@@ -86,7 +86,7 @@ function Other() {
                             <Icon active name="arrow-forward" style={styles.listItemArrow} />
                         </Right>
                     </ListItem>
-                    <ListItem icon onPress={() => Linking.openURL('https://www.suisuijiang.com')}>
+                    <ListItem icon onPress={() => Linking.openURL('http://b.luckykeeper.site/')}>
                         <Body>
                             <Text style={styles.listItemTitle}>作者</Text>
                         </Body>
@@ -94,7 +94,7 @@ function Other() {
                             <Icon active name="arrow-forward" style={styles.listItemArrow} />
                         </Right>
                     </ListItem>
-                    <ListItem icon onPress={() => Linking.openURL('https://fiora.suisuijiang.com')}>
+                    <ListItem icon onPress={() => Linking.openURL('https://talk.luckykeeper.site:24681/')}>
                         <Body>
                             <Text style={styles.listItemTitle}>fiora 网页版</Text>
                         </Body>
@@ -118,7 +118,7 @@ function Other() {
                     Copyright© 2015-
                     {new Date().getFullYear()}
                     {' '}
-                    碎碎酱
+                    碎碎酱 & Luckykeeper
                 </Text>
             </View>
             <PrivacyPolicy visible={showPrivacyPolicy} onClose={() => togglePrivacyPolicy(false)} />
