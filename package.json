@@ -1,6 +1,6 @@
 {
-  "name": "fiora-app",
-  "version": "1.0.0",
+  "name": "LuckyTalk-app",
+  "version": "0.9.0",
   "private": true,
   "license": "MIT",
   "main": "./node_modules/expo/AppEntry.js",
