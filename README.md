@@ -6,7 +6,7 @@ LuckyTalk 聊天室 App
 
 编译方法请参见 fiora-app 页面
 
-Android 版下载地址
+Android 版下载地址见下面链接或右侧 Releases
 
 ios 版因为没有果子家的设备所以没法整，果子的开发者账号好贵，嘤嘤嘤……
 
