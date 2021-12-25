@@ -16,5 +16,6 @@ v0.9.1 （2021年7月19日）修复一处小 bug
 
 [GitHub 下载地址](https://github.com/luckykeeper/LuckyTalk-app/releases/download/v0.9.1/luckytalk-v0.9.1.apk)
 
-[自建服务器高速下载地址（推荐）](https://gate.luckykeeper.site/LuckyTalk/luckytalk-v0.9.1.apk)
+[自建服务器下载地址](https://gate.luckykeeper.site/LuckyTalk/luckytalk-v0.9.1.apk)
 
+[国内分流（推荐）](https://oa.hbfu.edu.cn/backstage/filecenter/file/main::4a45a0f3a3164a3e98fc47d6e2b15bcd)
